@@ -592,7 +592,9 @@ footer .widget .footer4 form .input-group .input-group-text {
     border-radius: 30px;
     padding: .375rem .75rem;
     background-color: #f78f2f;
-    border: 0; }
+    border: 0;
+    Z-index:10;	  
+}
 
 /******footer-bottom*****/
 .footer-bottom-section {
