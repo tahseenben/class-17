@@ -1,0 +1,16 @@
+@media (max-width: 1399px){
+	
+}
+
+
+
+.step-section{
+	background-image: url(../images/banner-2.png);
+}
+.form-section{
+	background-image: url(../images/banner-3.png);
+}
+footer{
+	background: #333;
+	color: white;
+}
